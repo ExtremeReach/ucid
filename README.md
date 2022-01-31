@@ -1,18 +1,17 @@
 ![](https://app.extremereach.com/content/images/logo_header.gif)
 
-# Universal Creative Identification Framework Specification v1.0
+# Universal Creative Identification Framework Specification
 
-**September 2021**
+**Repository Moved!** 
 
-**About This Repository**
-At all times, the main branch of this repository contains the most recent release of the Universal Creative Identification Framework Specification. See [UCID v1.0 DRAFT.md](https://github.com/ExtremeReach/ucid/blob/main/spec/UCID%20v1.0%20DRAFT.md) in the main branch for the latest specification.
+*Effective February 1, 2022, the repository for UCID has been moved to the [IAB Tech Lab Github](https://github.com/IABTechLab/ucid) as part of the [Open Source Initiative](https://iabtechlab.com/opensource). Please update any links to the UCID Github repository to point to [https://github.com/IABTechLab/ucid](https://github.com/IABTechLab/ucid). To maintain external link integrity a secondary copy of the the [UCID White Paper](https://github.com/IABTechLab/ucid/blob/main/UCID%20White%20Paper.pdf) will be kept in this [Extreme Reach Github repository](https://github.com/ExtremeReach/ucid).*
 
-Branches exist for prior releases. Use these to review detailed changes from one release to another. A brief change log is found in the specification itself.
+____________
 
-The develop branch contains current work-in-progress for an upcoming specification version or release. It may change at any time.
 
 **Contact**
-For more information, or to get involved, please email ucid@extremereach.com.
+
+For additional information, please email ucid@extremereach.com.
 
 **About Extreme Reach**
 
@@ -25,9 +24,3 @@ Extreme Reach connects brand content with consumers across media types and marke
 Extreme Reach operates in 140 countries and 45 languages, with 1,100 team members serving 90 of the top 100 global advertisers and enabling $150 billion in video ad spend around the world. More than half a billion creative brand assets are managed in ER’s creative logistics platform.
 
 Learn more about Extreme Reach at [www.extremereach.com](https://www.extremereach.com).
-
-**License**
-
-Universal Creative Identification Framework Specification is licensed under a Creative Commons Attribution 3.0 License. To view a copy of this license, visit[ creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/) or write to Creative Commons, 171 Second Street, Suite 300, San Francisco, CA 94105, USA.
-
-![](https://drive.google.com/uc?id=1cbwEGlb8S69SndIDoHnvc5_3TfmkGM7R)
